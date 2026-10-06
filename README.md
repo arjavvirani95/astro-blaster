@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/arjavvirani95/astro-blaster/actions/workflows/ci.yml/badge.svg)](https://github.com/arjavvirani95/astro-blaster/actions/workflows/ci.yml)
 
+**[▶ Play it in your browser](https://arjavvirani95.github.io/astro-blaster/)**
+
 An arcade vertical shooter built with **Phaser 3**, **TypeScript** and **Vite**. It plays in the browser on desktop (keyboard) and mobile (touch).
 
 ## Gameplay
